@@ -53,6 +53,13 @@ input[type="submit"],
     border: none;
 }
 
+.logo{
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    margin: 0px;
+}
+
 .navbar {
     margin-bottom: 0;
 }
@@ -1725,7 +1732,7 @@ h2.typoh2 {
 .contact-form input[type="email"] {
     width: 47.7%;
     color: #999;
-    float: left;
+    float: none;
     background: none;
     outline: none;
     font-size: .9em;
